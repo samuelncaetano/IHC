@@ -1,0 +1,17 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Japanese Font Support",
+    "Minecraft",
+    "Notebook Backgrounds",
+    "Runescape"
+  ]
+}

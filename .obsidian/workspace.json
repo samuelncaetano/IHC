@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "91016b7e1c33b591",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ebcbdeb08b1316f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c473e1a120acec96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7533ef12bca8a78c",
+    "type": "split",
+    "children": [
+      {
+        "id": "374557b459609c5f",
+        "type": "tabs",
+        "dimension": 65.55555555555556,
+        "children": [
+          {
+            "id": "a7debc49c7f2b02b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c0b0db0ec003e159",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "442c6c27f335dc15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "d4d52d0bebe4fef8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9caf4a71e00811bc",
+        "type": "tabs",
+        "dimension": 34.44444444444444,
+        "children": [
+          {
+            "id": "4b0d55a3bb09f6b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8ba1a0d08e5751a",
+    "type": "split",
+    "children": [
+      {
+        "id": "941a77c09961c67b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b43b2f6267423ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1b98726d07706a1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "2145ef21bb81894e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f967094a3b7ff2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "266009f4c472148c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "8bc2246649a1849c",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          },
+          {
+            "id": "7011da207fbb188c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": true,
+      "daily-notes:Abrir a nota de hoje": true,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": true,
+      "workspaces:Gerenciar leiautes da área de trabalho": true,
+      "zk-prefixer:Criar nova nota única": false,
+      "markdown-importer:Abrir importador Markdown": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": true,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this month": false
+    }
+  },
+  "active": "c473e1a120acec96",
+  "lastOpenFiles": [
+    "Sem título.md",
+    "Nova pasta/00 - Maps of Content",
+    "Nova pasta/02 - Areas",
+    "Nova pasta/03 - Resources",
+    "Nova pasta/04 - Permanent",
+    "Nova pasta/05 - Fleeting",
+    "Nova pasta/07 - Archives",
+    "Nova pasta/99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "Nova pasta/99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "Nova pasta/99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Quote.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Weekly.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Next Monthly.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Monthly.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Concept.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Chapter.md",
+    "Nova pasta/99 - Meta/Preloaded Classes",
+    "Nova pasta/99 - Meta/Attachments",
+    "Nova pasta/99 - Meta/00 - Templates",
+    "Nova pasta/01 - Projects/IHC/Index.md",
+    "READ ME - IHC.md",
+    "READ ME - Vault.md",
+    "01 - Projects/IHC/Index.md",
+    "06 - Daily/03 - Month/2025-10-outubro.md",
+    "READ ME.md",
+    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Weekly.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Next Monthly.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Monthly.md"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "pinned": [
+    "workspace:show-trash",
+    "open-with-default-app:show",
+    "file-explorer:open",
+    "file-explorer:reveal-active-file",
+    "workspace:export-pdf",
+    "obsidian-text-format:uppercase",
+    "obsidian-text-format:lowercase",
+    "obsidian-text-format:capitalize-sentence",
+    "obsidian-text-format:heading-upper",
+    "obsidian-text-format:heading-lower"
+  ]
+}

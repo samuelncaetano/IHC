@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": false,
+  "weekStart": "locale",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "",
+  "weeklyNoteTemplate": "99 - Meta/00 - Templates/(TEMPLATE) Weekly",
+  "weeklyNoteFolder": "06 - Daily/02 - Week",
+  "localeOverride": "en"
+}
