@@ -168,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 - Projects/IHC/Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Outline of Index"
             }
           },
           {
@@ -195,9 +196,11 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "01 - Projects/IHC/Index.md"
+              },
               "icon": "lucide-file-signature",
-              "title": "Notas de rodapé"
+              "title": "Footnotes"
             }
           },
           {
@@ -238,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b87bd004fd9d1cd",
+  "active": "7011da207fbb188c",
   "lastOpenFiles": [
     "READ ME - IHC.md",
     "Sem título.md",
