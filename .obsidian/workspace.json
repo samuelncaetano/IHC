@@ -11,10 +11,14 @@
             "id": "78d80f1e9c53d5d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IHC - Capítulos.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "IHC - Capítulos"
             }
           }
         ]
@@ -236,6 +240,7 @@
   },
   "active": "78d80f1e9c53d5d1",
   "lastOpenFiles": [
+    "IHC - Capítulos.md",
     "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
     "99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Quote.md",
@@ -243,7 +248,6 @@
     "99 - Meta/00 - Templates/(TEMPLATE) Chapter.md",
     "READ ME - IHC.md",
     "01 - Projects/IHC/Index.md",
-    "Sem título.md",
     "Nova pasta/00 - Maps of Content",
     "Nova pasta/02 - Areas",
     "Nova pasta/03 - Resources",
