@@ -209,6 +209,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "dce3a40981c4e5b0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 6
@@ -240,14 +250,14 @@
   },
   "active": "78d80f1e9c53d5d1",
   "lastOpenFiles": [
-    "IHC - Capítulos.md",
     "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+    "IHC - Capítulos.md",
+    "01 - Projects/IHC/Index.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Quote.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Concept.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Chapter.md",
     "READ ME - IHC.md",
-    "01 - Projects/IHC/Index.md",
     "Nova pasta/00 - Maps of Content",
     "Nova pasta/02 - Areas",
     "Nova pasta/03 - Resources",
