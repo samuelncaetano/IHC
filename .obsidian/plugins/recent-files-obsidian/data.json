@@ -5,12 +5,24 @@
       "path": "IHC - Capítulos.md"
     },
     {
-      "basename": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO",
-      "path": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf"
+      "basename": "READ ME - IHC",
+      "path": "READ ME - IHC.md"
+    },
+    {
+      "basename": "READ ME - Vault",
+      "path": "READ ME - Vault.md"
     },
     {
       "basename": "Index",
       "path": "01 - Projects/IHC/Index.md"
+    },
+    {
+      "basename": "(TEMPLATE) Chapter",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Chapter.md"
+    },
+    {
+      "basename": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO",
+      "path": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf"
     },
     {
       "basename": "(TEMPLATE) Final Summary",
@@ -23,18 +35,6 @@
     {
       "basename": "(TEMPLATE) Concept",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Concept.md"
-    },
-    {
-      "basename": "(TEMPLATE) Chapter",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Chapter.md"
-    },
-    {
-      "basename": "READ ME - IHC",
-      "path": "READ ME - IHC.md"
-    },
-    {
-      "basename": "READ ME - Vault",
-      "path": "READ ME - Vault.md"
     },
     {
       "basename": "READ ME",

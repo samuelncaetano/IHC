@@ -6,9 +6,9 @@
 |:--------:|:------------------------------- |:-----------:|
 |    3     | Conceitos fundamentais          |   Samuel    |
 |    4     | Teorias cognitivas              |   Samuel    |
-|    5     | Teorias cognitivas              |             | 
+|    5     | Teorias cognitivas              |   Gustavo   | 
 |    6     | Processos de design             |             |
-|    7     | Coleta de dados e questionários |             |
+|    7     | Coleta de dados e questionários |   Gustavo   |
 |    10    | Diretrizes de design            |             |
 |    11    | Planejamento de avaliação       |             |
 |    12    | Métodos de avaliação            |             |
