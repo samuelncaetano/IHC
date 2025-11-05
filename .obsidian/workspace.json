@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "IHC - Capítulos"
             }
+          },
+          {
+            "id": "be9f7cce470d8bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/IHC/Index.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
           }
         ]
       }
@@ -106,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f8ba1a0d08e5751a",
@@ -250,8 +265,8 @@
   },
   "active": "c6134b88a921f55c",
   "lastOpenFiles": [
-    "IHC - Capítulos.md",
     "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+    "IHC - Capítulos.md",
     "01 - Projects/IHC/Index.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Quote.md",
