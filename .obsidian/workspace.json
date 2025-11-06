@@ -6,6 +6,7 @@
       {
         "id": "afe957baeaef1c9a",
         "type": "tabs",
+        "dimension": 61.193029490616624,
         "children": [
           {
             "id": "4e9ab07da4ce41e7",
@@ -14,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
-                "page": 71,
-                "left": 44,
-                "top": 429,
-                "zoom": 1.1
+                "page": 329,
+                "left": 47,
+                "top": 718,
+                "zoom": 1.3
               },
               "icon": "lucide-file-text",
               "title": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO"
@@ -28,6 +29,7 @@
       {
         "id": "7093e1a122ffd032",
         "type": "tabs",
+        "dimension": 38.806970509383376,
         "children": [
           {
             "id": "d81549518fd560ff",
@@ -210,7 +212,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Todas as propriedades"
+              "title": "All properties"
             }
           },
           {
@@ -218,9 +220,11 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf"
+              },
               "icon": "lucide-file-signature",
-              "title": "Notas de rodapé"
+              "title": "Footnotes"
             }
           },
           {
@@ -276,6 +280,7 @@
   "lastOpenFiles": [
     "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Capítulo.md.md",
     "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+    "INTERAÇÃO.md",
     "01 - Projects/IHC/Index.md",
     "READ ME - IHC.md",
     "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Conceito.md.md",
@@ -307,7 +312,6 @@
     "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Concept.md",
     "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Chapter.md",
     "Nova pasta/99 - Meta/Preloaded Classes",
-    "Nova pasta/01 - Projects/IHC/Index.md",
-    "READ ME - Vault.md"
+    "Nova pasta/01 - Projects/IHC/Index.md"
   ]
 }

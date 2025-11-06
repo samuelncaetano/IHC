@@ -15,8 +15,8 @@ data: <% tp.date.now("YYYY-MM-DD") %>
 
 ## Principais Conceitos
 
-- [[Conceito 1]]
-- [[Conceito 2]]
+- [[Lei de Hick-Hyman]]: 
+- [[Lei de Fitts]]:
 - [[Conceito 3]]
 
 ## Anotações (Método Cornell)
