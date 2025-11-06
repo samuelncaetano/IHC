@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "IHC - Capítulos",
-      "path": "IHC - Capítulos.md"
-    },
-    {
       "basename": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO",
       "path": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf"
+    },
+    {
+      "basename": "Capítulo.md",
+      "path": "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Capítulo.md.md"
     },
     {
       "basename": "Index",
@@ -17,12 +17,28 @@
       "path": "READ ME - IHC.md"
     },
     {
-      "basename": "READ ME - Vault",
-      "path": "READ ME - Vault.md"
+      "basename": "Conceito.md",
+      "path": "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Conceito.md.md"
+    },
+    {
+      "basename": "IHC - Capítulos",
+      "path": "IHC - Capítulos.md"
     },
     {
       "basename": "(TEMPLATE) Chapter",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Chapter.md"
+    },
+    {
+      "basename": "(TEMPLATE) Concept",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Concept.md"
+    },
+    {
+      "basename": "(TEMPLATE) Weekly",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Weekly.md"
+    },
+    {
+      "basename": "READ ME - Vault",
+      "path": "READ ME - Vault.md"
     },
     {
       "basename": "(TEMPLATE) Final Summary",
@@ -31,10 +47,6 @@
     {
       "basename": "(TEMPLATE) Quote",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Quote.md"
-    },
-    {
-      "basename": "(TEMPLATE) Concept",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Concept.md"
     },
     {
       "basename": "READ ME",

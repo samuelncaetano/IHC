@@ -4,35 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "78ab2eafadaf085c",
+        "id": "afe957baeaef1c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "c6134b88a921f55c",
+            "id": "4e9ab07da4ce41e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "IHC - Capítulos.md",
-                "mode": "preview",
-                "source": true
+                "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+                "page": 71,
+                "left": 44,
+                "top": 429,
+                "zoom": 1.1
               },
-              "icon": "lucide-file",
-              "title": "IHC - Capítulos"
+              "icon": "lucide-file-text",
+              "title": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7093e1a122ffd032",
+        "type": "tabs",
+        "children": [
           {
-            "id": "be9f7cce470d8bfe",
+            "id": "d81549518fd560ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/IHC/Index.md",
-                "mode": "preview",
+                "file": "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Capítulo.md.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Capítulo.md"
             }
           }
         ]
@@ -59,7 +67,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -240,20 +248,21 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": true,
-      "daily-notes:Abrir a nota de hoje": true,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": true,
-      "workspaces:Gerenciar leiautes da área de trabalho": true,
-      "zk-prefixer:Criar nova nota única": false,
-      "markdown-importer:Abrir importador Markdown": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -263,16 +272,21 @@
       "periodic-notes:Open this month": false
     }
   },
-  "active": "c6134b88a921f55c",
+  "active": "4e9ab07da4ce41e7",
   "lastOpenFiles": [
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Capítulo.md.md",
     "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
-    "IHC - Capítulos.md",
     "01 - Projects/IHC/Index.md",
+    "READ ME - IHC.md",
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Conceito.md.md",
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC",
+    "IHC - Capítulos.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Chapter.md",
+    "Cap. 5.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Concept.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Weekly.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Quote.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Concept.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Chapter.md",
-    "READ ME - IHC.md",
     "Nova pasta/00 - Maps of Content",
     "Nova pasta/02 - Areas",
     "Nova pasta/03 - Resources",
@@ -293,12 +307,7 @@
     "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Concept.md",
     "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Chapter.md",
     "Nova pasta/99 - Meta/Preloaded Classes",
-    "Nova pasta/99 - Meta/Attachments",
     "Nova pasta/01 - Projects/IHC/Index.md",
-    "READ ME - Vault.md",
-    "06 - Daily/03 - Month/2025-10-outubro.md",
-    "READ ME.md",
-    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
-    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md"
+    "READ ME - Vault.md"
   ]
 }
