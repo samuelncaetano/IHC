@@ -4,8 +4,42 @@
     "type": "split",
     "children": [
       {
+        "id": "f61a57b880e02ddb",
+        "type": "tabs",
+        "dimension": 83.15565031982942,
+        "children": [
+          {
+            "id": "08918b71a8e20d0f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+                "page": 49,
+                "left": -8,
+                "top": 477,
+                "zoom": 1.5862389883012251
+              },
+              "icon": "lucide-file-text",
+              "title": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO"
+            }
+          },
+          {
+            "id": "96ddd1b757c606c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      },
+      {
         "id": "78ab2eafadaf085c",
         "type": "tabs",
+        "dimension": 16.844349680170577,
         "children": [
           {
             "id": "c6134b88a921f55c",
@@ -34,8 +68,23 @@
               "icon": "lucide-file",
               "title": "Index"
             }
+          },
+          {
+            "id": "5cdca894cf0ec8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capítulo 3.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Capítulo 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,11 +312,12 @@
       "periodic-notes:Open this month": false
     }
   },
-  "active": "c6134b88a921f55c",
+  "active": "08918b71a8e20d0f",
   "lastOpenFiles": [
+    "Capítulo 3.md",
     "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
-    "IHC - Capítulos.md",
     "01 - Projects/IHC/Index.md",
+    "IHC - Capítulos.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Quote.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Concept.md",
@@ -298,7 +348,6 @@
     "READ ME - Vault.md",
     "06 - Daily/03 - Month/2025-10-outubro.md",
     "READ ME.md",
-    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
-    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md"
+    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md"
   ]
 }

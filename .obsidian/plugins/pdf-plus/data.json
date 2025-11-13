@@ -19,6 +19,10 @@
     {
       "name": "None",
       "template": ""
+    },
+    {
+      "name": "Text & page",
+      "template": "{{text}}, p.{{pageLabel}}"
     }
   ],
   "defaultDisplayTextFormatIndex": 0,
