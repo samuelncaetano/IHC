@@ -4,42 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f61a57b880e02ddb",
+        "id": "6ac6a707dafec15f",
         "type": "tabs",
-        "dimension": 83.15565031982942,
         "children": [
           {
-            "id": "08918b71a8e20d0f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
-                "page": 49,
-                "left": -4,
-                "top": 481,
-                "zoom": 1.5862389883012251
-              },
-              "icon": "lucide-file-text",
-              "title": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO"
-            }
-          },
-          {
-            "id": "1d06e3af27c38c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "96ddd1b757c606c7",
+            "id": "5755604cff7480b9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -48,58 +17,7 @@
               "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "78ab2eafadaf085c",
-        "type": "tabs",
-        "dimension": 16.844349680170577,
-        "children": [
-          {
-            "id": "c6134b88a921f55c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IHC - Capítulos.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "IHC - Capítulos"
-            }
-          },
-          {
-            "id": "be9f7cce470d8bfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/IHC/Index.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
-            "id": "5cdca894cf0ec8af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capítulo 3.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Capítulo 3"
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f8ba1a0d08e5751a",
@@ -327,16 +244,16 @@
       "periodic-notes:Open this month": false
     }
   },
-  "active": "1d06e3af27c38c7d",
+  "active": "5755604cff7480b9",
   "lastOpenFiles": [
-    "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
-    "conflict-files-obsidian-git.md",
-    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Conceito.md.md",
-    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Capítulo.md.md",
-    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC",
-    "Capítulo 3.md",
     "01 - Projects/IHC/Index.md",
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Capítulo.md",
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Conceito.md.md",
+    "conflict-files-obsidian-git.md",
+    "Capítulo 3.md",
     "IHC - Capítulos.md",
+    "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC",
     "99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Quote.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Concept.md",

@@ -4,7 +4,7 @@ capítulo: Capítulo.md
 data: 2025-11-13
 ---
 
-# Capítulo: Capítulo.md
+# Capítulo: Capítulo
 
 ## Objetivo
 
@@ -15,7 +15,7 @@ data: 2025-11-13
 
 ## Principais Conceitos
 
-- [[Lei de Hick-Hyman]]: 
+- [[Lei de Hick-Hyman]]:
 - [[Lei de Fitts]]:
 - [[Conceito 3]]
 
