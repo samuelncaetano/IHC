@@ -1,14 +1,45 @@
 {
   "main": {
-    "id": "7320a76d4903a7dd",
+    "id": "91016b7e1c33b591",
     "type": "split",
     "children": [
       {
-        "id": "085f2e921920dda6",
+        "id": "f61a57b880e02ddb",
         "type": "tabs",
+        "dimension": 83.15565031982942,
         "children": [
           {
-            "id": "68c3e1be75f53bc2",
+            "id": "08918b71a8e20d0f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+                "page": 49,
+                "left": -4,
+                "top": 481,
+                "zoom": 1.5862389883012251
+              },
+              "icon": "lucide-file-text",
+              "title": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO"
+            }
+          },
+          {
+            "id": "1d06e3af27c38c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "96ddd1b757c606c7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,21 +48,73 @@
               "title": "Nova aba"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "78ab2eafadaf085c",
+        "type": "tabs",
+        "dimension": 16.844349680170577,
+        "children": [
+          {
+            "id": "c6134b88a921f55c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IHC - Capítulos.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "IHC - Capítulos"
+            }
+          },
+          {
+            "id": "be9f7cce470d8bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/IHC/Index.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "5cdca894cf0ec8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capítulo 3.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Capítulo 3"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0f98c777c42a58a0",
+    "id": "7533ef12bca8a78c",
     "type": "split",
     "children": [
       {
-        "id": "16034bced63cccaa",
+        "id": "374557b459609c5f",
         "type": "tabs",
+        "dimension": 65.55555555555556,
         "children": [
           {
-            "id": "7196566759633a73",
+            "id": "a7debc49c7f2b02b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +127,7 @@
             }
           },
           {
-            "id": "adb04ffc1e9375fa",
+            "id": "c0b0db0ec003e159",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +144,7 @@
             }
           },
           {
-            "id": "39fba299bb0c8410",
+            "id": "442c6c27f335dc15",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +152,51 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "d4d52d0bebe4fef8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9caf4a71e00811bc",
+        "type": "tabs",
+        "dimension": 34.44444444444444,
+        "children": [
+          {
+            "id": "4b0d55a3bb09f6b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "37360681d6f6e8df",
+    "id": "f8ba1a0d08e5751a",
     "type": "split",
     "children": [
       {
-        "id": "f460725ca58a22bd",
+        "id": "941a77c09961c67b",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0d4c60a7cac7ab",
+            "id": "3b43b2f6267423ee",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +214,7 @@
             }
           },
           {
-            "id": "66fdd2f377edeae3",
+            "id": "1b98726d07706a1d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +227,7 @@
             }
           },
           {
-            "id": "95061d48d983aa73",
+            "id": "2145ef21bb81894e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,21 +242,7 @@
             }
           },
           {
-            "id": "22fb30abfc2ae4b6",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas as propriedades"
-            }
-          },
-          {
-            "id": "980e8c403ce6f120",
+            "id": "3f967094a3b7ff2c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -159,23 +256,47 @@
             }
           },
           {
-            "id": "e239377d249737ba",
+            "id": "266009f4c472148c",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
             }
           },
           {
-            "id": "954f7d1a6c09f499",
+            "id": "8bc2246649a1849c",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          },
+          {
+            "id": "7011da207fbb188c",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "dce3a40981c4e5b0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -189,14 +310,14 @@
     "hiddenItems": {
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
+      "canvas:Criar novo canvas": true,
+      "daily-notes:Abrir a nota de hoje": true,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir importador Markdown": false,
+      "bases:Criar nova base": true,
+      "workspaces:Gerenciar leiautes da área de trabalho": true,
       "zk-prefixer:Criar nova nota única": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "bases:Criar nova base": false,
+      "markdown-importer:Abrir importador Markdown": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -206,6 +327,42 @@
       "periodic-notes:Open this month": false
     }
   },
-  "active": "68c3e1be75f53bc2",
-  "lastOpenFiles": []
+  "active": "1d06e3af27c38c7d",
+  "lastOpenFiles": [
+    "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+    "conflict-files-obsidian-git.md",
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Conceito.md.md",
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Capítulo.md.md",
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC",
+    "Capítulo 3.md",
+    "01 - Projects/IHC/Index.md",
+    "IHC - Capítulos.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Quote.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Concept.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Chapter.md",
+    "READ ME - IHC.md",
+    "Nova pasta/00 - Maps of Content",
+    "Nova pasta/02 - Areas",
+    "Nova pasta/03 - Resources",
+    "Nova pasta/04 - Permanent",
+    "Nova pasta/05 - Fleeting",
+    "Nova pasta/07 - Archives",
+    "Nova pasta/99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "Nova pasta/99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "Nova pasta/99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Quote.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Weekly.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Next Monthly.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Monthly.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Concept.md",
+    "Nova pasta/99 - Meta/00 - Templates/(TEMPLATE) Chapter.md",
+    "Nova pasta/99 - Meta/Preloaded Classes",
+    "Nova pasta/01 - Projects/IHC/Index.md",
+    "READ ME - Vault.md"
+  ]
 }
