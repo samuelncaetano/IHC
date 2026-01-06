@@ -11,10 +11,14 @@
             "id": "5723cbe0e7486c8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IHC - Capítulos.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "IHC - Capítulos"
             }
           }
         ]
@@ -212,8 +216,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -236,22 +240,22 @@
       "zk-prefixer:Criar nova nota única": false,
       "markdown-importer:Abrir importador Markdown": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open this month": false,
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open this month": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5723cbe0e7486c8d",
   "lastOpenFiles": [
     "Capítulo 3.md",
+    "IHC - Capítulos.md",
     "01 - Projects/IHC/Index.md",
     "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Capítulo.md",
     "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Conceito.md.md",
     "conflict-files-obsidian-git.md",
-    "IHC - Capítulos.md",
     "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
     "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC",
     "99 - Meta/00 - Templates/(TEMPLATE) Final Summary.md",
