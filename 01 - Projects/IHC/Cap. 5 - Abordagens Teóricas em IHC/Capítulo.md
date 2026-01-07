@@ -1,10 +1,10 @@
 ---
 tags: [capítulo, leitura]
-capítulo: Capítulo.md
+capítulo: Capítulo 5.md
 data: 2025-11-13
 ---
 
-# Capítulo: Capítulo
+# Capítulo: 5 - Abordagens Teóricas em IHC
 
 ## Objetivo
 
@@ -12,19 +12,22 @@ data: 2025-11-13
 > Quais são as ideias principais deste capítulo?
 > Apresentar e contextualizar fundamentos teóricos em IHC, com base psicológica, etnográfica e semiótica. Sendo estes fundamentos: leis de Hick-Hyman e de Fitts, psicologia aplicada, princípios de Gestalt, engenharia cognitiva, ações situadas, teoria da atividade e engenharia semiótica.
 > Além disso, discutir a influência desses fundamentos em métodos e modelos utilizados no projeto e avaliação em IHC.
+> Resumindo, apresentar abordagens que têm feito grandes contribuições para a área de IHC, sendo elas ancoradas na psicologia, etnografia e semiótica.
 
 ## Principais Conceitos
 
-- [[Lei de Hick-Hyman]]:
-- [[Lei de Fitts]]:
+- [[Lei de Hick-Hyman]]
+- [[Lei de Fitts]]
 - [[Conceito 3]]
+- [[Engenharia Semiótica]]
 
 ## Anotações (Método Cornell)
 
 | Ideias e exemplos | Palavras-chave / Dúvidas |
 |:----------------- |:------------------------ |
-| ...               | ...                      |
-| ...               | ...                      |
+| Lei de Hick-Hyman e Lei de Fitts são os modelos psicológicos mais usados em IHC | Como os dois se complementam? |
+| Não se pode utilizar a Lei de Hick-Hyman em casos que só existe busca binária em uma interface | Qual lei pode ser aplicada para este cenário? |
+| 
 
 ## Resumo
 
