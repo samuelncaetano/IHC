@@ -1,17 +1,33 @@
-# Welcome to MkDocs
+# Documentação
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Espaço dedicado ao acompanhamento e documentação do desenvolvimento do artigo científico sobre **IHC**.
 
-## Commands
+## Navegação
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- **Atas** - Registro das discussões e decisões da equipe
+- **[Cronograma](cronograma.md)** - Planejamento e prazos do projeto
 
-## Project layout
+## Informações do Projeto
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**Autores**: 
+   
+    - Gustavo Oki de Freitas Rodrigues Leite 
+    - João Pedro Rodrigues Gomes da Silva
+    - Júlia dos Reis Teixeira Massuda
+    - Ricardo Henrique Silva Rodrigues
+    - Samuel Nogueira Caetano
+    - Thiago Viriato Accioly
+
+**Professor orientador**: Sergio Antonio Andrade de Freitas
+
+**Período**: 2026.1  
+**Status**: Inicial
+
+## Links
+
+- [Repositório GitHub](https://github.com/samuelncaetano/IHC)
+- [Documento do Artigo](link)
+
+---
+
+*Este site foi criado com MkDocs e hospedado no GitHub Pages*
