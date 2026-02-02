@@ -1,0 +1,14 @@
+site_name: Artigo IHC
+site_description: Documentação e acompanhamento do desenvolvimento do artigo
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    primary: indigo
+    accent: indigo
+
+nav:
+  - Início: index.md
+  - Atas:
+    - '02-02': 'atas/02_02.md'
+  - Cronograma: cronograma.md
