@@ -26,7 +26,7 @@ Espaço dedicado ao acompanhamento e documentação do desenvolvimento do artigo
 ## Links
 
 - [Repositório GitHub](https://github.com/samuelncaetano/IHC)
-- [Documento do Artigo](link)
+- [Documento do Artigo](https://samuelncaetano.github.io/IHC/)
 
 ---
 
