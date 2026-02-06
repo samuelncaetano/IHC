@@ -8,13 +8,11 @@ Relaciona o tempo que leva para uma pessoa tomar sua decisão com base em um nú
 ### Fórmulas:
 O tempo médio T necessário para escolher dentre N opções, onde k é empiricamente determinado, pode ser calculado aproximademente por:
 
-$$
-T = k \times \log_2(N + 1), caso as opções tenham igual probabilidade;
-$$
+$$T = k \times \log_2(N + 1)$$, caso as opções tenham igual probabilidade;
+
 ou
-$$
-T = k \times \sum p_i \log_2\left(1 + \frac{1}{p_i}\right), onde pi é a probabilidade da alternativa i, caso as N opções tenham probabilidades diferentes;
-$$
+
+$$T = k \times \sum p_i \log_2\left(1 + \frac{1}{p_i}\right)$$, onde pi é a probabilidade da alternativa i, caso as N opções tenham probabilidades diferentes;
 
 > Em geral, assume que k ~ 150ms.
 
