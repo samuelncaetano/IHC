@@ -21,7 +21,7 @@ Resumindo, apresentar abordagens que têm feito grandes contribuições para a �
 ## Anotações
 - Dentre os modelos mais utilizados em IHC, são a lei de Hick-Hyman (tempo de reação de escolha) (Hick, 1952; Hyman, 1953) e a lei de Fitts (capacidade de processamento de informação do sistema motor humano) (Fitts, 1954);
 
-- A [engenharia semiótica](./engenharia_semiotica.md) firmou-se como uma teoria de IHC centrada nos processos de significação e comunicação que envolvem designers, usuários e sistemas interativos [(de Souza, 2005b)](#ref-de-souza-2005b);
+- A [engenharia semiótica](./engenharia_semiotica.md) firmou-se como uma teoria de IHC centrada nos processos de significação e comunicação que envolvem designers, usuários e sistemas interativos (de Souza, 2005b)[[1]](#ref-de-souza-2005b);
 
 ## Resumo
 
@@ -31,7 +31,7 @@ Resumindo, apresentar abordagens que têm feito grandes contribuições para a �
 
 ## Referências e citações
 <a id="ref-de-souza-2005b"></a>
-de Souza, Clarisse Sieckenius (2005b). The Semiotic Engineering of Human-Computer Interaction (Acting
+[1] de Souza, Clarisse Sieckenius (2005b). The Semiotic Engineering of Human-Computer Interaction (Acting
 with Technology). The MIT Press.
 
 ## Relações
