@@ -22,7 +22,7 @@ $$T = k \times \sum p_i \log_2\left(1 + \frac{1}{p_i}\right)$$, onde pi é a pro
 
 - Essa lei pode ser utilizada para fazer uma estimativa de quanto tempo uma pessoa levará para encontrar uma opção dentre diversas disponíveis dentro de uma interface;
 
-> ** ATENÇÃO!**: caso não haja um princípio de organização das opções que permita o usuário eliminar metade delas rapidamente, essa lei não se aplica, pois a busca binária não pode ser realizada!
+>** ATENÇÃO!**: caso não haja um princípio de organização das opções que permita o usuário eliminar metade delas rapidamente, essa lei não se aplica, pois a busca binária não pode ser realizada!
 
 ## Referências e citações
 <a id="ref-hick-hyman"></a>
