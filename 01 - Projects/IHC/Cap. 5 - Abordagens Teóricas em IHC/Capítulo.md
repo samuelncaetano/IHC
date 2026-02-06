@@ -16,7 +16,7 @@ data: 2025-11-13
 
 ## Principais Conceitos
 
-- [[Lei de Hick-Hyman]]
+- [Lei de Hick-Hyman](./lei_Hick_Hyman.md)
 - [[Lei de Fitts]]
 - [[Conceito 3]]
 - [[Engenharia Semiótica]]
@@ -27,7 +27,6 @@ data: 2025-11-13
 |:----------------- |:------------------------ |
 | Lei de Hick-Hyman e Lei de Fitts são os modelos psicológicos mais usados em IHC | Como os dois se complementam? |
 | Não se pode utilizar a Lei de Hick-Hyman em casos que só existe busca binária em uma interface | Qual lei pode ser aplicada para este cenário? |
-| 
 
 ## Resumo
 

@@ -8,7 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5723cbe0e7486c8d",
+            "id": "f6c4ce098d2cbf62",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+                "page": 72,
+                "left": -8,
+                "top": 457,
+                "zoom": 1.814284466365182
+              },
+              "icon": "lucide-file-text",
+              "title": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO"
+            }
+          },
+          {
+            "id": "9dd10b83ad5b454b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +35,6 @@
               },
               "icon": "lucide-file",
               "title": "Capítulo"
-            }
-          },
-          {
-            "id": "f6c4ce098d2cbf62",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
-                "page": 72,
-                "left": -14,
-                "top": 492,
-                "zoom": 1.0583326053796898
-              },
-              "icon": "lucide-file-text",
-              "title": "INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO"
             }
           }
         ]
@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f8ba1a0d08e5751a",
@@ -184,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Outline of INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO"
             }
           },
           {
@@ -211,9 +213,11 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf"
+              },
               "icon": "lucide-file-signature",
-              "title": "Notas de rodapé"
+              "title": "Footnotes"
             }
           },
           {
@@ -237,11 +241,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,10 +269,11 @@
       "periodic-notes:Open this month": false
     }
   },
-  "active": "5723cbe0e7486c8d",
+  "active": "f6c4ce098d2cbf62",
   "lastOpenFiles": [
-    "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
+    "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/lei_Hick_Hyman.md",
     "01 - Projects/IHC/Cap. 5 - Abordagens Teóricas em IHC/Capítulo.md",
+    "99 - Meta/Attachments/INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO.pdf",
     "IHC - Capítulos.md",
     "01 - Projects/IHC/Index.md",
     "READ ME - Vault.md",
